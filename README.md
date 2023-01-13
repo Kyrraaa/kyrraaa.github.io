@@ -7,4 +7,5 @@ Ce dernier est fait en HTML & CSS.
 
 ## Lancement
 
-Pour le lancer, il vous suffit d'ouvrir dans votre navigateur le fichier 'index.html'.
+Pour le lancer, il vous suffit d'ouvrir dans votre navigateur le fichier `index.html`
+ou d'entrer sur votre navigateur l'adresse suivante: https://kyrraaa.github.io/
